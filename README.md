@@ -1,4 +1,4 @@
-# ⛏ MC Server Radar — Complete Documentation
+# MC Server Radar — Complete Documentation
 
 > A single-file Python web application that checks Minecraft server status,
 > silently scans all ports on a given IP for hidden Minecraft servers, and
