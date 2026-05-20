@@ -1,0 +1,130 @@
+ANKIT KUMAR SINGH
+Ranchi, Jharkhand, India
++91 75648 55362 | gamerzofficial6@gmail.com
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+Founder, Backend Developer, and Server/DevOps Engineer with hands-on experience building and scaling Minecraft-based platforms and hosting infrastructure. Strong background in Java-based server ecosystems (Spigot/Paper/Bukkit), Linux systems, automation, and community-driven product growth. Proven ability to manage full-stack systems, optimize performance, and lead technical + operational workflows.
+
+----------------------------------------
+TECHNICAL SKILLS
+
+Programming Languages:
+- Java (Spigot/Paper/Bukkit plugin development)
+- JavaScript (Node.js)
+- PHP (basic–intermediate)
+- SQL (MySQL/MariaDB)
+- Bash/Shell scripting
+
+Frameworks & Platforms:
+- Node.js, Express.js
+- Pterodactyl Panel (game server management)
+- REST API development
+- Discord Bot Development (Discord.js)
+
+Databases:
+- MySQL / MariaDB
+- Basic NoSQL exposure
+
+DevOps / Infrastructure:
+- Linux Server Administration (Ubuntu/CentOS)
+- Nginx / Apache
+- Docker (basic usage)
+- Firewall configuration (iptables/ufw)
+- Reverse Proxy & Domain/DNS management
+- DDoS mitigation basics
+
+Tools & Systems:
+- Git & GitHub
+- RCON tools
+- CI/CD basics (manual pipelines)
+- Monitoring & logging tools
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+
+Founder & Backend Developer / DevOps Engineer
+SpyMC (SeniorNetwork) | Jun 2021 – Present
+- Built and scaled a Minecraft network using Java (Spigot/Paper)
+- Developed custom plugins to enhance gameplay, moderation, and automation
+- Managed infrastructure including proxies (Bungee/Velocity), security, and uptime optimization
+- Handled 100+ concurrent users and growing community ecosystem
+- Achieved high uptime (~99% target) through server optimization and monitoring
+- Built full ecosystem: website, Discord server, YouTube integration
+- Led monetization strategy and branding
+
+Key Achievements:
+- Reduced lag by optimizing server tick performance and plugin efficiency
+- Automated admin workflows reducing manual work by ~40%
+- Managed community support and handled 50–100+ user queries weekly
+
+----------------------------------------
+
+Partner & Content Creator
+Fozzy Game Server Hosting | Oct 2022 – Sep 2023
+- Created technical and promotional content for hosting services
+- Helped expand reach within gaming communities
+- Learned and applied real-world hosting infrastructure practices
+
+----------------------------------------
+
+Administrator / DevOps Operator
+Opera Host | Apr 2022 – Aug 2023
+- Built and operated a free Minecraft hosting platform
+- Integrated Pterodactyl panel with billing system automation
+- Managed hundreds of users and multiple active server instances
+- Optimized hosting performance and cost efficiency
+
+Key Achievements:
+- Supported 200+ users with stable hosting
+- Designed automation reducing manual provisioning time by ~60%
+- Handled daily support tickets (20–40/day)
+
+----------------------------------------
+PROJECTS (GitHub & Practical Work)
+
+Minecraft Plugin Development
+- Custom plugins built using Java (Spigot/Paper API)
+- Features: moderation tools, gameplay enhancements, performance tuning
+
+RCON Management Panel
+- Built remote control system for managing Minecraft servers
+- Automated commands and monitoring using backend scripts
+
+Discord Bots & Automation Tools
+- Developed bots using Node.js & Discord.js
+- Features: moderation, auto-events, logging, community engagement
+
+(You can add your GitHub links here with project-specific repos)
+
+----------------------------------------
+EDUCATION
+
+BBA (Management)
+Marwari College, Ranchi (Pursuing)
+
+Diploma in Computer Applications (A+)
+
+Class 12 (Science: PCM + Biology) — 87.61%
+
+----------------------------------------
+ADDITIONAL SKILLS
+
+Operations & Soft Skills:
+- Community Management
+- Customer Support & Ticket Handling
+- Analytical Problem Solving
+- Team Coordination
+- Content Creation (YouTube, Blogs, Social Media)
+- Technical Documentation Writing
+
+----------------------------------------
+LANGUAGES
+- Hindi
+- English
+
+----------------------------------------
+LINKS
+- https://mondrith.com/user/YourSenior
+- https://senior.spymc.xyz
+- https://github.com/kibowiSenior
